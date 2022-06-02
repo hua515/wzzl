@@ -5,7 +5,7 @@
 > node的后台和一个web的前台。参考了其他大佬的，修改了一下。
 
 # 战力查询网站
-[http://wx.hua51.cn](http://wz.hua51.cn)
+[演示案例http://wx.hua51.cn](http://wz.hua51.cn)
 
 > 效果图
 
